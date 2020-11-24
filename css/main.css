@@ -1,0 +1,12 @@
+#logoTop {
+	height: 60px;
+}
+
+label i {
+	font-size: 12px !important;
+}
+
+.card {
+	padding: 4%;
+	border-radius: 1%;
+}
