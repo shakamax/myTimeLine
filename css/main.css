@@ -10,3 +10,7 @@ label i {
 	padding: 4%;
 	border-radius: 1%;
 }
+
+.borderless {
+	border: none !important;
+}

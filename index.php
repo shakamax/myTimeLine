@@ -238,7 +238,7 @@
 		<div class="nav-wrapper teal lighten-2">
 		  <a href="#!" class="brand-logo center"><img id="logoTop" src="img/logo4.png"></a>
 		  <ul class="left hide-on-med-and-down">
-		   
+		   	<li><a href="demo.php">Demonstativos</a></li>
 		    <li><a href="DAO/crudUsuario.php?acao=logout" onclick="return confirm('Deseja realmente realizar o logout?')">Logout</a></li>
 
 		  </ul>
